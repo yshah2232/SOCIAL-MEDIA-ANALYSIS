@@ -8,11 +8,11 @@
 5. RANDOM FOREST
 
 
-## INTRODUCTION
+## Introduction
 
 For finding out the forecast of sales through advertisements in social media  we use some machine learning techniques by using the modeling techniques we can get a clearer report.
 
-## DATA VARIABLES:
+## Data variables:
 
 This dataset (400 rows) will be split into training and testing dataset with a train-test split of 300 (train)-100 (test).
 There are 5 attributes:
